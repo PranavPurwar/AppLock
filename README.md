@@ -2,7 +2,7 @@
 
 This project has moved to its official home. For the latest updates, issues, and contributions, please go to:
 
-### 🔗 **[github.com/aload0/AppLock](https://github.com/PranavPurwar/AppLock)**
+### 🔗 **[github.com/aload0/AppLock](https://github.com/aload0/AppLock)**
 
 ---
 
