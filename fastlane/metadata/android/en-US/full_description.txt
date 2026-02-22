@@ -13,7 +13,7 @@ AppLock is a modern, open-source privacy tool designed to keep your sensitive ap
 * <b>Real-time monitoring</b>: Protects apps as they launch
 * <b>100% offline</b>: No ads, no trackers, no data collection
 
-Perfect for:
+<b>Perfect for</b>:
 
 * Privacy-conscious users wanting to secure sensitive apps
 * Securing banking, messaging, and social apps
