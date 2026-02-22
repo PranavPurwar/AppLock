@@ -2,16 +2,16 @@ Secure your sensitive apps with powerful biometric protection using AppLock!
 
 AppLock is a modern, open-source privacy tool designed to keep your sensitive apps safe. With a beautiful Material 3 Expressive interface and robust biometric security, AppLock ensures your data stays private — always on your device, never in the cloud.
 
-Features:
+<b>Features</b>
 
-* **Material You Design**: Seamlessly adapts to your system theme
-* **Biometric Unlock**: Use face unlock, fingerprint or PIN for fast, secure access
-* **Anti-uninstall**: Prevents unauthorized removal
-* **Unlock Timer**: Optional timer to keep apps unlocked for fixed time period after unlocking
-* **No Root required**: Works on all devices without root access
-* **One-tap protection**: Lock any app instantly
-* **Real-time monitoring**: Protects apps as they launch
-* **100% offline**: No ads, no trackers, no data collection
+* <b>Material You Design</b>: Seamlessly adapts to your system theme
+* <b>Biometric Unlock</b>: Use face unlock, fingerprint or PIN for fast, secure access
+* <b>Anti-uninstall</b>: Prevents unauthorized removal
+* <b>Unlock Timer</b>: Optional timer to keep apps unlocked for fixed time period after unlocking
+* <b>No Root required</b>: Works on all devices without root access
+* <b>One-tap protection</b>: Lock any app instantly
+* <b>Real-time monitoring</b>: Protects apps as they launch
+* <b>100% offline</b>: No ads, no trackers, no data collection
 
 Perfect for:
 
